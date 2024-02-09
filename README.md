@@ -1,6 +1,6 @@
 # Sunfish-Like
 Sunfish-Like is a CLI tool for debugging and testing chess engine logic of the [Molafish](https://github.com/flwrr/molafish) chess engine against its parent engine, [Sunfish](https://github.com/thomasahle/sunfish). 
-It also serves as a detailed performance log, change log, and archive of previous Molafish versions. While the tool currently 
+It also serves as a detailed performance log, change log, and archive of previous Molafish versions.
 
 ## ♢ Features
 Several customizable test groupings accessible through the command line with the `click` python package.<br>
